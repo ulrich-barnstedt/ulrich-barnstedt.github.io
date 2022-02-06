@@ -1,4 +1,8 @@
-me.ulrichBarnstedt.libOutput
-me.ulrichBarnstedt.libOutput.color
-me.ulrichBarnstedt.libOutput.render
-me.ulrichBarnstedt.libOutput.terminal
+ulrichbarnstedt.lib.output
+ulrichbarnstedt.lib.output.color
+ulrichbarnstedt.lib.output.input
+ulrichbarnstedt.lib.output.render.elments
+ulrichbarnstedt.lib.output.render.style
+ulrichbarnstedt.lib.output.render.xmlRender
+ulrichbarnstedt.lib.output.terminal
+ulrichbarnstedt.lib.output.util
