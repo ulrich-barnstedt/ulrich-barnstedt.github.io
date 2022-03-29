@@ -4,8 +4,8 @@
 -->
 <plugins>
     <plugin id="ulrichbarnstedt.plug.IJ_teams"
-            url="https://ulrich-barnstedt.github.io/services/jetbrains-plug-repo/IJ_teams-1.4.zip"
-            version="1.4">
+            url="https://ulrich-barnstedt.github.io/services/jetbrains-plug-repo/IJ_teams-1.6.zip"
+            version="1.6">
         <idea-version since-build="181.3" until-build="213.*" />
     </plugin>
 </plugins>
